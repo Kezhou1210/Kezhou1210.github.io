@@ -1,13 +1,12 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: Handows
+date: 2024-03-01
+external_link: https://drive.google.com/file/d/1h6bvFH8XiGGvdGLSXNUIklscrXlLL-dL/view?usp=sharing
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - VR/AR
+  - HCI
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+Integrated the basic functionalities of existing computing device window management systems into HandPad. HandPad can be manipulated to choose, close, swap, scale the open windows. 
 
 <!--more-->
