@@ -28,7 +28,7 @@ sections:
           filters:
             brightness: 1.0
           size: cover
-          position: center
+          position: top
           parallax: false
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
