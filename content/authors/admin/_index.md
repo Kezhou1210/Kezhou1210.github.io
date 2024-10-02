@@ -40,7 +40,7 @@ interests:
   - Human-Robot/AI interaction
 
 education:
-  - area: Bachelor of Economics and Business in Financ
+  - area: Bachelor of Economics and Business in Finance
     institution: Chongqing University
     date_start: 2021-09-01
     date_end: 2025-06-01
