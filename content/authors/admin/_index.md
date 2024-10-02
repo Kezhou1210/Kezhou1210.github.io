@@ -47,7 +47,6 @@ education:
     summary: |
       GPA: 3.77/4.0
 ---
-
 ## About Me
 <big>Hi, My name is **Ke Zhou**!</big>
 
