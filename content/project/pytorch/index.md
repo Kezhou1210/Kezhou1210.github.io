@@ -1,13 +1,11 @@
 ---
-title: PyTorch
-date: 2023-10-26
-external_link: https://github.com/pytorch/pytorch
+title: Immersive telesurgery system considering different remapping relations in VR
+date: 2023-6-24
+external_link: https://drive.google.com/file/d/1RFgitPgOjOjaHpEIPD9PoHXmJjzHk4xz/view?usp=sharing
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - VR/HRI
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+ Designed and simulated an immersive telesurgery system and explored the remapping impact of saptial head-hand relations in VR telesurgery.
 
 <!--more-->
