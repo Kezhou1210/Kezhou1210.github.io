@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: https://drive.google.com/file/d/11gqlCG93GEFtvkK_61j_MPZUxhT81hau/view?usp=sharing
     design:
       css_class: dark
       background:
@@ -30,16 +30,18 @@ sections:
           size: cover
           position: center
           parallax: false
+sections:
   - block: collection
     content:
       title: Selected Projects
-      text: ""
+      text: ''
       filters:
         folders:
           - project
-        exclude_featured: false
     design:
-      view: citation
+      view: article-grid
+      fill_image: true
+      columns: 2
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
