@@ -42,8 +42,8 @@ interests:
 education:
   - area: Bachelor of Economics and Business in Financ
     institution: Chongqing University
-    date_start: 2021-9
-    date_end: 2025-6
+    date_start: 2021-09-01
+    date_end: 2025-06-01
     summary: |
       GPA: 3.77/4.0
 ---
