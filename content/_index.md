@@ -30,7 +30,16 @@ sections:
           size: cover
           position: center
           parallax: false
-
+  - block: collection
+    content:
+      title: Selected Projects
+      text: ""
+      filters:
+        folders:
+          - project
+        exclude_featured: false
+    design:
+      view: citation
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
