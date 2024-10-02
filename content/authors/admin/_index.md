@@ -51,3 +51,5 @@ education:
 ## About Me
 
 I am currently a senior undergrad at Chongqing University. Previously I worked as a research intern at the HCI lab at Chinese Academy of Science advised by Professor Teng Han. I aslo worked as a remote research intern at TAMU under the supervision of Professor Wai Tong.
+
+My research interests are Virtual/Augmented Reality, Human-Computer Interaction, Data Visualization and Human-Robot/AI Interaction. I'm eager to collaborate so feel free to send me an email. 
