@@ -1,13 +1,11 @@
 ---
-title: scikit-learn
-date: 2023-10-26
-external_link: https://github.com/scikit-learn/scikit-learn
+title: Optimized measurement method on evaluating transient physiological discomfort during VR locomotion
+date: 2023-01-01
+external_link: https://drive.google.com/file/d/1Pp295_B_ZJMgeXDOWPuORehcz8F1QiGe/view?usp=sharing
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - HCI/VR/AR
 ---
 
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
+Identified and evaluated three continuous measurement methods and expanded traditional measurement methods to evaluate transient physiological discomfort to optimize the VR experiences utilizing the measurement data.
 
 <!--more-->
