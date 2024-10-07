@@ -22,6 +22,6 @@ main:
   - name: Projects
     url: projects/
     weight: 30
-  - name: Research Interest
+  - name: My Work
     url: teaching/
     weight: 40
