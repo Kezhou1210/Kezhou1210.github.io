@@ -29,29 +29,7 @@ sections:
             brightness: 1.0
           size: cover
           position: top
-          parallax: false
-
-  - block: research-interest
-    content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
-      text: ""
-      # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download Research Interest
-        url: https://drive.google.com/file/d/11gqlCG93GEFtvkK_61j_MPZUxhT81hau/view?usp=sharing
-    design:
-      css_class: light
-      background:
-        color: white
-        image:
-          # Add your image background to `assets/media/`.
-          filename: ''
-          filters:
-            brightness: 1.0
-          size: cover
-          position: top
-          parallax: false          
+          parallax: false        
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
