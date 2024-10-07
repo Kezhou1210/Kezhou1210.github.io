@@ -1,5 +1,5 @@
 ---
-title: Work
+title: Research Interest
 summary: ''
 type: landing
 
@@ -13,7 +13,7 @@ sections:
   - block: collection
     id: teaching
     content:
-      title: My Work
+      title: Research Interest
       filters:
         folders:
           - teaching
