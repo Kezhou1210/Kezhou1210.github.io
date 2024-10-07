@@ -1,20 +1,21 @@
 ---
-title: Learn JavaScript
-summary: Easily learn JavaScript in 10 minutes!
-date: 2023-10-24
+title: Research Interest
+summary: 
+date: 2024-10-07
 type: docs
 math: false
 tags:
   - JavaScript
 image:
-  caption: 'Embed rich media such as videos and LaTeX math'
+  caption: ''
 ---
 
 [Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
 
-**Embed videos, podcasts, code, LaTeX math, and even test students!**
+**Introduction:**
 
-On this page, you'll find some examples of the types of technical content that can be rendered with Hugo Blox.
+With the advancement of technology, human-computer interaction has evolved from simple text entry through the Command Line Interface (CLI) to the widely recognized and utilized WIMP (Windows, Icons, Menus, Pointer) interaction paradigm. In recent years, the emergence of Virtual Reality (VR), Augmented Reality (AR), and Mixed Reality (MR) has further expanded the boundaries of human-computer interaction. These technologies transcend traditional two-dimensional screens, immersing users in three-dimensional virtual environments where interaction can be achieved through a variety of modalities, including gesture recognition, voice commands, and even haptic feedback. This shift has paved the way for more natural user interfaces, where individuals can interact with digital content in ways that mimic real-world interactions. Despite the potential of VR/AR/MR technologies, their current applications remain largely confined to niche areas such as gaming, entertainment, and specific professional training scenarios. This limited scope has led to questions about how these immersive technologies can be further developed to enhance user experiences across various domains. My goal is to make the use of VR/AR/MR technologies as ubiquitous and immersive as depicted in popular media, such as Ready Player One and Sword Art Online, ultimately transforming how individuals interact with digital content in their everyday lives.
+In order to enhance user immersion in VR/AR/MR environments, my research interests are primarily focused on the following four aspects:
 
 ## Video
 
