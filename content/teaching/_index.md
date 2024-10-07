@@ -1,6 +1,6 @@
 ---
-title: Teaching
-summary: My courses
+title: research Interest
+summary: ''
 type: landing
 
 cascade:
@@ -19,5 +19,5 @@ sections:
           - teaching
     design:
       view: article-grid
-      columns: 2
+      columns: 1
 ---
